@@ -1,6 +1,6 @@
 # 📊 Financial Risk & Credit Scoring Model
 
-This repository contains my MSBA project on **credit risk analytics** — combining Python for modeling and Tableau for business visualization.  
+This repository contains my project on **credit risk analytics** — combining Python for modeling and Tableau for business visualization.  
 
 ## 🔹 Project Overview
 - Built a **credit scoring model** on 40k+ loan records.  
